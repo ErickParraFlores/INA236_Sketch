@@ -1,0 +1,16 @@
+{
+  "reference_A": 0.298,
+  "samples": 25,
+  "min_mV": 9.27,
+  "max_mV": 9.27,
+  "mean_mV": 9.27,
+  "effective_resistance_ohm": 0.031107382550335568,
+  "previous_current_A": 0.368882,
+  "after_upload": {
+    "samples": 20,
+    "mean_current_A": 0.29779900000000004,
+    "min_current_A": 0.297784,
+    "max_current_A": 0.297884,
+    "mean_shunt_mV": 9.262875
+  }
+}
